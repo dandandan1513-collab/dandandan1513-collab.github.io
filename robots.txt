@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dandandan1513-coliab.github.io//sitemap.xml
+Sitemap: https://dandandan1513-collab.github.io//sitemap.xml
